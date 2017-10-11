@@ -1,5 +1,6 @@
 
 #### reference :  https://zhuanlan.zhihu.com/p/21477488 ####
+#### reference : http://www.cnblogs.com/mandalalala/p/6227201.html  ####
 
 notice : 需要OpenAI Gym 的通用环境 
 tensorflow-version : 1.3.0
@@ -13,9 +14,9 @@ tensorflow-version : 1.3.0
 -----------------==---------------
 
 
-1)安装OpenAI gym
-2)安装OpenGL
-3)试验代码已经调试并且上传git
+#### 1)安装OpenAI gym
+#### 2)安装OpenGL
+#### 3)试验代码已经调试并且上传git
 
 
   服务端执行：xvfb-run -s "-screen 0 1400x900x24" python dqn.py
